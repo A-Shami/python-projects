@@ -78,6 +78,6 @@ if __name__ == "__main__":
     """
 
     pdf_file_path = r"if existed"
-    excel_file_path = r"excel file path"
+    excel_file_path = r"excel file path that you are getting your emails from"
 
     send_emails_from_excel(excel_file_path, sender_email, sender_password, subject, body, pdf_file_path)
