@@ -1,4 +1,4 @@
-# his code was made by Ahmad Alshami
+# this code was made by Ahmad Alshami
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
